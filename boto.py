@@ -143,8 +143,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-
-Market cap is the total value of all coins. It is based on the current price multiplied by total supply.
